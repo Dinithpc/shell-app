@@ -36,7 +36,7 @@ const Login = () => {
           display: { xs: 'none', sm: 'flex' },
           alignItems: 'center',
           justifyContent: 'center',
-          backgroundImage: 'url(/solar.svg)', // Replace with your image
+          backgroundImage: 'url(/oil.svg)', // Replace with your image
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           borderRadius: 2,
@@ -93,7 +93,7 @@ const Login = () => {
               fontSize: { xs: '16px', md: '20px' },
             }}
           >
-            Solar Projects Monitoring System
+            Shop Monitoring System
           </Typography>
           <Typography
             sx={{
@@ -102,7 +102,7 @@ const Login = () => {
               fontSize: { xs: '24px', md: '40px' },
             }}
           >
-            Uniqueness of the <br /> Solar Projects Inspection
+            Uniqueness of the <br /> Shops Inspection
           </Typography>
         </Box>
       </Grid>
