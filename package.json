@@ -1,0 +1,27 @@
+{
+  "name": "atm-map",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@googlemaps/markerclustererplus": "^1.2.10",
+    "@mui/icons-material": "^6.1.5",
+    "@mui/material": "^6.1.5",
+    "jsonwebtoken": "^9.0.2",
+    "next": "14.2.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "recharts": "^2.13.0"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.2"
+  }
+}
